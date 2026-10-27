@@ -1,0 +1,23 @@
+# Ruta en el repo: .github/workflows/blog-post-workflow.yml
+# Rellena la sección "Últimas entradas del blog" del README con el RSS de luisadanmunoz.es
+# DEPENDENCY: el sitio Jekyll debe publicar un feed (plugin jekyll-feed -> /feed.xml)
+name: Últimas entradas del blog
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # diario, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://luisadanmunoz.es/feed.xml"
+          max_post_count: 5
+          commit_message: "chore: actualizar últimas entradas del blog"
