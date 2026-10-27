@@ -67,6 +67,11 @@ En qué ando:
 ## ✍️ Últimas entradas del blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Del consumo Azure de los clientes CSP a una lista de conversaciones](https://luisadanmunoz.es/posts/consumo-azure-csp-senales-comerciales/)
+- [Acceder a un AKS privado con command invoke: dos capas de permisos y un error de ID](https://luisadanmunoz.es/posts/acceso-aks-privado-command-invoke/)
+- [Portal de autoservicio con Entra ID, GDAP y Lighthouse](https://luisadanmunoz.es/posts/portal-autoservicio-entra-id-gdap-lighthouse/)
+- [Un segundo cerebro en Obsidian para un consultor de Azure](https://luisadanmunoz.es/posts/segundo-cerebro-obsidian-consultor-azure/)
+- [Terraform Agent, paso 2: SchemaManager como fuente de verdad](https://luisadanmunoz.es/posts/blob_post_3_schemamanager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
