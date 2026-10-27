@@ -1,6 +1,6 @@
 <!-- Repo: github.com/luisadanmunoz/luisadanmunoz  (README de perfil) -->
 
-## 👋 Sobre mí
+## 👋 Sobre mí.
 
 [![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect-Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/)
 [![Blog](https://img.shields.io/badge/Blog-luisadanmunoz.es-50C8E8?style=for-the-badge&logo=jekyll&logoColor=white)](https://luisadanmunoz.es)
