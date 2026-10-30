@@ -8,7 +8,7 @@
 
 > *Llevo las ideas de la pizarra a producción en Azure.*
 
-Soy **Consultor y Arquitecto Cloud en Azure** en **[Evolutio](https://www.evolutio.com)**, con base en **España**. Llevo más de 20 años en tecnología —redes Cisco, administración de sistemas y, desde 2019, cloud— y hoy diseño, despliego y audito plataformas en el ecosistema Microsoft para clientes enterprise y de sectores regulados: **Landing Zones**, gobierno, migraciones y automatización con **Terraform**. También diseño **agentes y soluciones de IA** sobre **Microsoft Foundry**.
+Soy **Consultor y Arquitecto Cloud en Azure** en **[Evolutio](https://www.evolutio.com)**, con base en **España**. Llevo más de 20 años en tecnología, redes Cisco, administración de sistemas y, desde 2019, cloud, y hoy diseño, despliego y audito plataformas en el ecosistema Microsoft para clientes enterprise y de sectores regulados: **Landing Zones**, gobierno, migraciones y automatización con **Terraform**. También diseño **agentes y soluciones de IA** sobre **Microsoft Foundry**.
 
 En qué ando:
 
